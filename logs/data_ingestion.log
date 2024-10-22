@@ -1,0 +1,190 @@
+2024-10-22 00:53:31,773 - INFO - Data ingestion process started.
+2024-10-22 00:53:32,773 - INFO - Processing file: USC00257715.txt
+2024-10-22 00:53:36,088 - INFO - File USC00257715.txt: 10957 new records inserted.
+2024-10-22 00:53:36,089 - INFO - Processing file: USC00113879.txt
+2024-10-22 00:53:37,831 - INFO - File USC00113879.txt: 9074 new records inserted.
+2024-10-22 00:53:37,831 - INFO - Processing file: USC00127935.txt
+2024-10-22 00:53:39,652 - INFO - File USC00127935.txt: 10380 new records inserted.
+2024-10-22 00:53:39,652 - INFO - Processing file: USC00112193.txt
+2024-10-22 00:53:41,543 - INFO - File USC00112193.txt: 10653 new records inserted.
+2024-10-22 00:53:41,543 - INFO - Processing file: USC00250640.txt
+2024-10-22 00:53:43,390 - INFO - File USC00250640.txt: 10957 new records inserted.
+2024-10-22 00:53:43,390 - INFO - Processing file: USC00257070.txt
+2024-10-22 00:53:45,265 - INFO - File USC00257070.txt: 10926 new records inserted.
+2024-10-22 00:53:45,267 - INFO - Processing file: USC00114442.txt
+2024-10-22 00:53:47,153 - INFO - File USC00114442.txt: 10957 new records inserted.
+2024-10-22 00:53:47,153 - INFO - Processing file: USC00115833.txt
+2024-10-22 00:53:48,958 - INFO - File USC00115833.txt: 10866 new records inserted.
+2024-10-22 00:53:48,958 - INFO - Processing file: USC00130133.txt
+2024-10-22 00:53:51,119 - INFO - File USC00130133.txt: 10957 new records inserted.
+2024-10-22 00:53:51,119 - INFO - Processing file: USC00132724.txt
+2024-10-22 00:53:53,036 - INFO - File USC00132724.txt: 10836 new records inserted.
+2024-10-22 00:53:53,036 - INFO - Processing file: USC00250130.txt
+2024-10-22 00:53:55,005 - INFO - File USC00250130.txt: 9587 new records inserted.
+2024-10-22 00:53:55,005 - INFO - Processing file: USC00256970.txt
+2024-10-22 00:53:56,938 - INFO - File USC00256970.txt: 10017 new records inserted.
+2024-10-22 00:53:56,938 - INFO - Processing file: USC00116446.txt
+2024-10-22 00:53:58,779 - INFO - File USC00116446.txt: 10654 new records inserted.
+2024-10-22 00:53:58,779 - INFO - Processing file: USC00253175.txt
+2024-10-22 00:54:00,663 - INFO - File USC00253175.txt: 10957 new records inserted.
+2024-10-22 00:54:00,663 - INFO - Processing file: USC00129113.txt
+2024-10-22 00:54:02,516 - INFO - File USC00129113.txt: 10927 new records inserted.
+2024-10-22 00:54:02,516 - INFO - Processing file: USC00134142.txt
+2024-10-22 00:54:04,357 - INFO - File USC00134142.txt: 10807 new records inserted.
+2024-10-22 00:54:04,357 - INFO - Processing file: USC00121229.txt
+2024-10-22 00:54:05,662 - INFO - File USC00121229.txt: 6087 new records inserted.
+2024-10-22 00:54:05,663 - INFO - Processing file: USC00116526.txt
+2024-10-22 00:54:07,722 - INFO - File USC00116526.txt: 10926 new records inserted.
+2024-10-22 00:54:07,722 - INFO - Processing file: USC00259510.txt
+2024-10-22 00:54:09,413 - INFO - File USC00259510.txt: 8735 new records inserted.
+2024-10-22 00:54:09,413 - INFO - Processing file: USC00255470.txt
+2024-10-22 00:54:11,117 - INFO - File USC00255470.txt: 8489 new records inserted.
+2024-10-22 00:54:11,117 - INFO - Processing file: USC00257515.txt
+2024-10-22 00:54:13,016 - INFO - File USC00257515.txt: 10075 new records inserted.
+2024-10-22 00:54:13,016 - INFO - Processing file: USC00258395.txt
+2024-10-22 00:54:14,918 - INFO - File USC00258395.txt: 10957 new records inserted.
+2024-10-22 00:54:14,918 - INFO - Processing file: USC00338313.txt
+2024-10-22 00:54:16,694 - INFO - File USC00338313.txt: 9862 new records inserted.
+2024-10-22 00:54:16,694 - INFO - Processing file: USC00131402.txt
+2024-10-22 00:54:18,506 - INFO - File USC00131402.txt: 10957 new records inserted.
+2024-10-22 00:54:18,506 - INFO - Processing file: USC00118916.txt
+2024-10-22 00:54:20,459 - INFO - File USC00118916.txt: 10865 new records inserted.
+2024-10-22 00:54:20,459 - INFO - Processing file: USC00124181.txt
+2024-10-22 00:54:22,329 - INFO - File USC00124181.txt: 10681 new records inserted.
+2024-10-22 00:54:22,329 - INFO - Processing file: USC00128036.txt
+2024-10-22 00:54:24,229 - INFO - File USC00128036.txt: 10835 new records inserted.
+2024-10-22 00:54:24,229 - INFO - Processing file: USC00126580.txt
+2024-10-22 00:54:26,058 - INFO - File USC00126580.txt: 10899 new records inserted.
+2024-10-22 00:54:26,058 - INFO - Processing file: USC00129670.txt
+2024-10-22 00:54:27,975 - INFO - File USC00129670.txt: 10957 new records inserted.
+2024-10-22 00:54:27,975 - INFO - Processing file: USC00115943.txt
+2024-10-22 00:54:29,781 - INFO - File USC00115943.txt: 10957 new records inserted.
+2024-10-22 00:54:29,781 - INFO - Processing file: USC00124008.txt
+2024-10-22 00:54:31,116 - INFO - File USC00124008.txt: 5476 new records inserted.
+2024-10-22 00:54:31,116 - INFO - Processing file: USC00116910.txt
+2024-10-22 00:54:33,144 - INFO - File USC00116910.txt: 10898 new records inserted.
+2024-10-22 00:54:33,144 - INFO - Processing file: USC00114108.txt
+2024-10-22 00:54:35,048 - INFO - File USC00114108.txt: 10896 new records inserted.
+2024-10-22 00:54:35,049 - INFO - Processing file: USC00127298.txt
+2024-10-22 00:54:37,045 - INFO - File USC00127298.txt: 10957 new records inserted.
+2024-10-22 00:54:37,045 - INFO - Processing file: USC00110187.txt
+2024-10-22 00:54:38,944 - INFO - File USC00110187.txt: 10407 new records inserted.
+2024-10-22 00:54:38,944 - INFO - Processing file: USC00253365.txt
+2024-10-22 00:54:40,747 - INFO - File USC00253365.txt: 10926 new records inserted.
+2024-10-22 00:54:40,747 - INFO - Processing file: USC00251200.txt
+2024-10-22 00:54:42,747 - INFO - File USC00251200.txt: 10805 new records inserted.
+2024-10-22 00:54:42,747 - INFO - Processing file: USC00112140.txt
+2024-10-22 00:54:44,704 - INFO - File USC00112140.txt: 10957 new records inserted.
+2024-10-22 00:54:44,704 - INFO - Processing file: USC00253615.txt
+2024-10-22 00:54:46,689 - INFO - File USC00253615.txt: 10927 new records inserted.
+2024-10-22 00:54:46,689 - INFO - Processing file: USC00255310.txt
+2024-10-22 00:54:48,495 - INFO - File USC00255310.txt: 10926 new records inserted.
+2024-10-22 00:54:48,495 - INFO - Processing file: USC00132864.txt
+2024-10-22 00:54:50,404 - INFO - File USC00132864.txt: 10957 new records inserted.
+2024-10-22 00:54:50,404 - INFO - Processing file: USC00129511.txt
+2024-10-22 00:54:51,971 - INFO - File USC00129511.txt: 6849 new records inserted.
+2024-10-22 00:54:51,972 - INFO - Processing file: USC00118740.txt
+2024-10-22 00:54:53,797 - INFO - File USC00118740.txt: 10957 new records inserted.
+2024-10-22 00:54:53,797 - INFO - Processing file: USC00333780.txt
+2024-10-22 00:54:56,075 - INFO - File USC00333780.txt: 10927 new records inserted.
+2024-10-22 00:54:56,075 - INFO - Processing file: USC00254900.txt
+2024-10-22 00:54:58,155 - INFO - File USC00254900.txt: 10927 new records inserted.
+2024-10-22 00:54:58,155 - INFO - Processing file: USC00255565.txt
+2024-10-22 00:54:59,988 - INFO - File USC00255565.txt: 10957 new records inserted.
+2024-10-22 00:54:59,988 - INFO - Processing file: USC00250435.txt
+2024-10-22 00:55:03,850 - INFO - File USC00250435.txt: 10957 new records inserted.
+2024-10-22 00:55:03,851 - INFO - Processing file: USC00252020.txt
+2024-10-22 00:55:05,727 - INFO - File USC00252020.txt: 10746 new records inserted.
+2024-10-22 00:55:05,727 - INFO - Processing file: USC00138296.txt
+2024-10-22 00:55:08,170 - INFO - File USC00138296.txt: 10837 new records inserted.
+2024-10-22 00:55:08,170 - INFO - Processing file: USC00132977.txt
+2024-10-22 00:55:10,077 - INFO - File USC00132977.txt: 10957 new records inserted.
+2024-10-22 00:55:10,077 - INFO - Processing file: USC00118147.txt
+2024-10-22 00:55:11,827 - INFO - File USC00118147.txt: 9896 new records inserted.
+2024-10-22 00:55:11,827 - INFO - Processing file: USC00250622.txt
+2024-10-22 00:55:13,775 - INFO - File USC00250622.txt: 10896 new records inserted.
+2024-10-22 00:55:13,775 - INFO - Processing file: USC00331592.txt
+2024-10-22 00:55:15,645 - INFO - File USC00331592.txt: 10957 new records inserted.
+2024-10-22 00:55:15,646 - INFO - Processing file: USC00258915.txt
+2024-10-22 00:55:17,446 - INFO - File USC00258915.txt: 10957 new records inserted.
+2024-10-22 00:55:17,446 - INFO - Processing file: USC00250420.txt
+2024-10-22 00:55:19,285 - INFO - File USC00250420.txt: 10379 new records inserted.
+2024-10-22 00:55:19,285 - INFO - Processing file: USC00338830.txt
+2024-10-22 00:55:21,229 - INFO - File USC00338830.txt: 10957 new records inserted.
+2024-10-22 00:55:21,229 - INFO - Processing file: USC00115515.txt
+2024-10-22 00:55:22,757 - INFO - File USC00115515.txt: 6271 new records inserted.
+2024-10-22 00:55:22,757 - INFO - Processing file: USC00120784.txt
+2024-10-22 00:55:24,684 - INFO - File USC00120784.txt: 10897 new records inserted.
+2024-10-22 00:55:24,684 - INFO - Processing file: USC00112483.txt
+2024-10-22 00:55:26,704 - INFO - File USC00112483.txt: 10898 new records inserted.
+2024-10-22 00:55:26,704 - INFO - Processing file: USC00332098.txt
+2024-10-22 00:55:28,654 - INFO - File USC00332098.txt: 10927 new records inserted.
+2024-10-22 00:55:28,654 - INFO - Processing file: USC00116579.txt
+2024-10-22 00:55:30,710 - INFO - File USC00116579.txt: 10407 new records inserted.
+2024-10-22 00:55:30,710 - INFO - Processing file: USC00137979.txt
+2024-10-22 00:55:32,798 - INFO - File USC00137979.txt: 10926 new records inserted.
+2024-10-22 00:55:32,798 - INFO - Processing file: USC00258480.txt
+2024-10-22 00:55:34,657 - INFO - File USC00258480.txt: 10808 new records inserted.
+2024-10-22 00:55:34,657 - INFO - Processing file: USC00258133.txt
+2024-10-22 00:55:36,371 - INFO - File USC00258133.txt: 9225 new records inserted.
+2024-10-22 00:55:36,371 - INFO - Processing file: USC00115712.txt
+2024-10-22 00:55:38,487 - INFO - File USC00115712.txt: 10957 new records inserted.
+2024-10-22 00:55:38,487 - INFO - Processing file: USC00331152.txt
+2024-10-22 00:55:40,119 - INFO - File USC00331152.txt: 8886 new records inserted.
+2024-10-22 00:55:40,119 - INFO - Processing file: USC00335297.txt
+2024-10-22 00:55:41,838 - INFO - File USC00335297.txt: 9557 new records inserted.
+2024-10-22 00:55:41,838 - INFO - Processing file: USC00334189.txt
+2024-10-22 00:55:43,777 - INFO - File USC00334189.txt: 10834 new records inserted.
+2024-10-22 00:55:43,777 - INFO - Processing file: USC00253660.txt
+2024-10-22 00:55:45,606 - INFO - File USC00253660.txt: 10896 new records inserted.
+2024-10-22 00:55:45,606 - INFO - Processing file: USC00137161.txt
+2024-10-22 00:55:47,707 - INFO - File USC00137161.txt: 10957 new records inserted.
+2024-10-22 00:55:47,707 - INFO - Processing file: USC00336600.txt
+2024-10-22 00:55:49,500 - INFO - File USC00336600.txt: 10561 new records inserted.
+2024-10-22 00:55:49,501 - INFO - Processing file: USC00253715.txt
+2024-10-22 00:55:51,145 - INFO - File USC00253715.txt: 8521 new records inserted.
+2024-10-22 00:55:51,145 - INFO - Processing file: USC00338822.txt
+2024-10-22 00:55:52,936 - INFO - File USC00338822.txt: 10957 new records inserted.
+2024-10-22 00:55:52,936 - INFO - Processing file: USC00256135.txt
+2024-10-22 00:55:54,701 - INFO - File USC00256135.txt: 10957 new records inserted.
+2024-10-22 00:55:54,701 - INFO - Processing file: USC00254440.txt
+2024-10-22 00:55:56,594 - INFO - File USC00254440.txt: 10866 new records inserted.
+2024-10-22 00:55:56,594 - INFO - Processing file: USC00132999.txt
+2024-10-22 00:55:58,434 - INFO - File USC00132999.txt: 10804 new records inserted.
+2024-10-22 00:55:58,434 - INFO - Processing file: USC00335041.txt
+2024-10-22 00:56:00,320 - INFO - File USC00335041.txt: 10896 new records inserted.
+2024-10-22 00:56:00,320 - INFO - Processing file: USC00331541.txt
+2024-10-22 00:56:02,188 - INFO - File USC00331541.txt: 10957 new records inserted.
+2024-10-22 00:56:02,188 - INFO - Processing file: USC00135952.txt
+2024-10-22 00:56:04,026 - INFO - File USC00135952.txt: 10899 new records inserted.
+2024-10-22 00:56:04,026 - INFO - Processing file: USC00256040.txt
+2024-10-22 00:56:05,606 - INFO - File USC00256040.txt: 9009 new records inserted.
+2024-10-22 00:56:05,606 - INFO - Processing file: USC00134735.txt
+2024-10-22 00:56:07,561 - INFO - File USC00134735.txt: 10928 new records inserted.
+2024-10-22 00:56:07,561 - INFO - Processing file: USC00123513.txt
+2024-10-22 00:56:09,332 - INFO - File USC00123513.txt: 10347 new records inserted.
+2024-10-22 00:56:09,332 - INFO - Processing file: USC00129557.txt
+2024-10-22 00:56:11,121 - INFO - File USC00129557.txt: 10957 new records inserted.
+2024-10-22 00:56:11,121 - INFO - Processing file: USC00114198.txt
+2024-10-22 00:56:12,993 - INFO - File USC00114198.txt: 10926 new records inserted.
+2024-10-22 00:56:12,993 - INFO - Processing file: USC00252820.txt
+2024-10-22 00:56:14,886 - INFO - File USC00252820.txt: 10896 new records inserted.
+2024-10-22 00:56:14,886 - INFO - Processing file: USC00120177.txt
+2024-10-22 00:56:16,919 - INFO - File USC00120177.txt: 10837 new records inserted.
+2024-10-22 00:56:16,919 - INFO - Processing file: USC00134894.txt
+2024-10-22 00:56:18,777 - INFO - File USC00134894.txt: 10867 new records inserted.
+2024-10-22 00:56:18,778 - INFO - Processing file: USC00130600.txt
+2024-10-22 00:56:20,656 - INFO - File USC00130600.txt: 10928 new records inserted.
+2024-10-22 00:56:20,656 - INFO - Processing file: USC00137147.txt
+2024-10-22 00:56:22,507 - INFO - File USC00137147.txt: 10957 new records inserted.
+2024-10-22 00:56:22,507 - INFO - Processing file: USC00116610.txt
+2024-10-22 00:56:24,365 - INFO - File USC00116610.txt: 10957 new records inserted.
+2024-10-22 00:56:24,365 - INFO - Processing file: USC00126705.txt
+2024-10-22 00:56:26,142 - INFO - File USC00126705.txt: 10598 new records inserted.
+2024-10-22 00:56:26,142 - INFO - Processing file: USC00339312.txt
+2024-10-22 00:56:27,945 - INFO - File USC00339312.txt: 10957 new records inserted.
+2024-10-22 00:56:27,945 - INFO - Processing file: USC00336196.txt
+2024-10-22 00:56:29,933 - INFO - File USC00336196.txt: 10957 new records inserted.
+2024-10-22 00:56:29,933 - INFO - Processing file: USC00134063.txt
+2024-10-22 00:56:32,185 - INFO - File USC00134063.txt: 10714 new records inserted.
+2024-10-22 00:56:32,185 - INFO - Processing file: USC00332119.txt

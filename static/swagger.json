@@ -1,0 +1,116 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "Weather Data API",
+    "version": "1.0.0",
+    "title": "Weather Data API"
+  },
+  "host": "localhost:5000",
+  "basePath": "/",
+  "tags": [
+    {
+      "name": "weather",
+      "description": "Operations related to weather data"
+    },
+    {
+      "name": "weather-stats",
+      "description": "Operations related to weather statistics"
+    }
+  ],
+  "paths": {
+    "/api/weather": {
+      "get": {
+        "tags": ["weather"],
+        "summary": "Get weather data",
+        "parameters": [
+          {
+            "name": "station_id",
+            "in": "query",
+            "description": "Filter by station ID",
+            "required": false,
+            "type": "string"
+          },
+          {
+            "name": "date",
+            "in": "query",
+            "description": "Filter by date (YYYY-MM-DD)",
+            "required": false,
+            "type": "string"
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "description": "Page number",
+            "required": false,
+            "type": "integer"
+          },
+          {
+            "name": "per_page",
+            "in": "query",
+            "description": "Number of records per page",
+            "required": false,
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/weather/stats": {
+      "get": {
+        "tags": ["weather-stats"],
+        "summary": "Get weather statistics",
+        "parameters": [
+          {
+            "name": "station_id",
+            "in": "query",
+            "description": "Filter by station ID",
+            "required": false,
+            "type": "string"
+          },
+          {
+            "name": "year",
+            "in": "query",
+            "description": "Filter by year",
+            "required": false,
+            "type": "integer"
+          },
+          {
+            "name": "page",
+            "in": "query",
+            "description": "Page number",
+            "required": false,
+            "type": "integer"
+          },
+          {
+            "name": "per_page",
+            "in": "query",
+            "description": "Number of records per page",
+            "required": false,
+            "type": "integer"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Successful response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "type": "object"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
